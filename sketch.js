@@ -18,4 +18,7 @@ fill(50,150,255);
 rect(mouseX, mouseY, 40, 40);
 } 
 
-if (mouseIsPressed)
+if (mouseIsPressed) {
+fill(255, 255, 255, 150);
+ellipse(mouseX, mouseY, 120, 120);
+} 
