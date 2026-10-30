@@ -9,7 +9,7 @@ function draw() {
   rect(0,0,800,500);
 
 
-if(mouse < width/ 2) { 
+if (mouseX< width/ 2) { 
 fill(255,120,50);
 ellipse(mouseX, mouseY, 40, 40)
 } else {
