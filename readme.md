@@ -8,6 +8,6 @@ E a função draw() repete-se continuamente, cerca de 60 vezes por segundo, e é
  A primeira condição é um if / else com mouseX, o programa verifica se o rato está na metade esquerda do ecrã (mouseX < width / 2) e, se estiver, desenha círculos laranja; caso contrário (else), desenha quadrados azuis. 
 A segunda é um if com mouseIsPressed, em que quando o botão do rato está a ser pressionado, aparece um círculo grande, branco e semitransparente à volta do cursor.
 
-Para perceber algumas funções utilizei o site oficial do p5.js, e foi útil sobretudo para perceber como poderia usar e entender a diferença entre a ellipse() e rect()
+Para perceber algumas funções utilizei o site oficial do p5.js, e foi útil sobretudo para perceber como poderia usar e entender a diferença entre a ellipse() e rect(), tal como o Claude para questões mais específicas que o site não me conseguia esclarecer.
 
 Matilde Brandão nº2024332, Matilde Brandão.
